@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI College Prediction</title>
+</head>
+<body>
+
+    <h1>AI-Based College Prediction System 🎓</h1>
+
+    <form action="/predict" method="POST">
+
+         <label>Enter name:</label><br>
+        <input type="text" name="sname" required><br><br>
+        
+        <!-- Rank -->
+        <label>Enter Rank:</label><br>
+        <input type="number" name="rank" required><br><br>
+
+        <!-- Category -->
+        <label>Select Category:</label><br>
+        <select name="category" required>
+            <option value="SM">SM</option>
+            <option value="EZ">EZ</option>
+            <option value="MU">MU</option>
+            <option value="LA">LA</option>
+            <option value="DV">DV</option>
+            <option value="VK">VK</option>
+            <option value="BH">BH</option>
+            <option value="BX">BX</option>
+            <option value="KN">KN</option>
+            <option value="KU">KU</option>
+            <option value="SC">SC</option>
+            <option value="ST">ST</option>
+            <option value="EW">EW</option>
+        </select><br><br>
+
+        <!-- Course -->
+        <label>Select Course:</label>
+        <select name="course" required>
+            <option>Applied Electronics & Instrumentation</option>
+            <option>B.Tech. (Agrl. Engg.)</option>
+            <option>Artificial Intelligence and Machine Learning</option>
+            <option>Cyber Physical Systems</option>
+            <option>Civil Engineering</option>
+            <option>Computer Science and Design</option>
+            <option>Chemical Engineering</option>
+            <option>Computer Science & Engineering (Data Science)</option>
+            <option>Computer Science & Engineering</option>
+            <option>Civil and Environmental Engineering</option>
+            <option>Dairy Technology</option>
+            <option>Electronics & Communication</option>
+            <option>Electrical & Electronics</option>
+            <option>Electrical and Computer Engineering</option>
+            <option>Food Technology</option>
+            <option>Instrumentation & Control Engg.</option>
+            <option>Industrial Engineering</option>
+            <option>Information Technology</option>
+            <option>Mechanical Engineering</option>
+            <option>Production Engineering</option>
+            <option>Robotics and Artificial Intelligence</option>
+            <option>Artificial Intelligence and Data Science</option>
+            <option>Bio Technology and Biochemical Engineering</option>
+            <option>Computer Science and Engineering (Artificial Intelligence and Machine Learning)</option>
+            <option>Computer Science and Business Systems</option>
+            <option>Computer Science and Engineering (Cyber Security)</option>
+            <option>Electronics & Biomedical Engg</option>
+            <option>Electronics and Computer Science</option>
+            <option>Electronics and Computer Engineering</option>
+            <option>Electronics Engineering (VLSI Design & Technology)</option>
+            <option>Mechanical (Automobile)</option>
+            <option>Polymer Engg.</option>
+            <option>Printing Technology</option>
+            <option>Artificial Intelligence</option>
+            <option>B.Tech Agricultural Engineering</option>
+            <option>Aeronautical Engineering</option>
+            <option>Automobile Engineering</option>
+            <option>Computer Science & Engineering and Business Systems</option>
+            <option>Bio Medical Engineering</option>
+            <option>Biomedical & Robotic Engineering</option>
+            <option>Bio Technology</option>
+            <option>Electronics & Instrumentation</option>
+            <option>Computer Science & Engineering (Internet of Things & Cyber Security including Block Chain)</option>
+            <option>Safety & Fire Engineering</option>
+            <option>Computer Science and Engineering (Artificial Intelligence and Data Science)</option>
+            <option>Internet of Things</option>
+            <option>Metallurgical and Materials Engineering</option>
+            <option>Mechatronics Engineering</option>
+            <option>Robotics and Automation Engineering</option>
+            <option>Naval Arch. & Ship Building Engineering</option>
+        </select><br><br>
+
+       <label>Select the District:</label><br>
+        <select name="location" required>
+            <option value="" disabled selected>Select a District</option>
+            <option value="trivandrum">Thiruvananthapuram</option>
+            <option value="kollam">Kollam</option>
+            <option value="pathanamthitta">Pathanamthitta</option>
+            <option value="alapuzha">Alappuzha</option>
+            <option value="kottayam">Kottayam</option>
+            <option value="idukki">Idukki</option>
+            <option value="eranakulam">Ernakulam</option>
+            <option value="trissur">Thrissur</option>
+            <option value="palakkad">Palakkad</option>
+            <option value="malappuaram">Malappuram</option>
+            <option value="kozhikode">Kozhikode</option>
+            <option value="wayanad">Wayanad</option>
+            <option value="kannur">Kannur</option>
+            <option value="kasargod">Kasaragod</option>
+        </select><br><br>
+
+
+        <button type="submit">Predict</button>
+
+    </form>
+
+</body>
+</html>
