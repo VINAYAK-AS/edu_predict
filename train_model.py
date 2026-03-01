@@ -1,6 +1,8 @@
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split # <-- Added this import!
+from sklearn.metrics import mean_absolute_error, r2_score
 import joblib
 
 def train_and_save():
@@ -20,12 +22,28 @@ def train_and_save():
     X = df[['college_code', 'course', 'category', 'year', 'allotment_round']]
     y = df['last_rank']
 
-    # 4. Train the Model
+    # --- THE MISSING MAGIC LINE ---
+    # Split the data: 80% for training, 20% for testing
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    # 4. Train the Model (Only on the 80% training data!)
     print("Training Random Forest Model... Please wait 🌳")
     model = RandomForestRegressor(n_estimators=100, random_state=42)
-    model.fit(X, y)
+    model.fit(X_train, y_train)
 
-    # 5. Save the Model and Encoders
+    # 5. Make predictions on the 20% hidden test data
+    y_pred = model.predict(X_test)
+
+    # 6. Calculate the metrics
+    mae = mean_absolute_error(y_test, y_pred)
+    r2 = r2_score(y_test, y_pred)
+
+    print("\n--- Model Evaluation ---")
+    print(f"R-squared Score: {r2 * 100:.2f}%")
+    print(f"Mean Absolute Error (MAE): {mae:.2f} ranks")
+    print("------------------------\n")
+
+    # 7. Save the Model and Encoders
     joblib.dump(model, 'models/keam_model.pkl')
     joblib.dump(encoders, 'models/encoders.pkl')
     print("Model Training Complete. Files saved to the 'models' folder! 💾")
