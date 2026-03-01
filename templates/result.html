@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Results</title>
+</head>
+<body>
+
+    <h1>Prediction Results for {{ name }} 🎓</h1>
+
+    <h3>Your Details:</h3>
+    <ul>
+        <li><strong>Your Rank:</strong> {{ rank }}</li>
+        <li><strong>Selected Course:</strong> {{ course }}</li>
+        <li><strong>Preferred Location:</strong> {{ location }}</li>
+    </ul>
+
+    <hr>
+
+    <h3>College Recommendations:</h3>
+
+    {% if results %}
+        <table border="1" cellpadding="10" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>College Code</th>
+                    <th>College Name</th>
+                    <th>Predicted Cutoff Rank</th>
+                    <th>Confidence (%)</th>
+                    <th>Admission Chance</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in results %}
+                    <tr>
+                        <td><strong>{{ item.college_code }}</strong></td>
+                        <td>{{ item.college_name }}</td>
+                        <td>{{ item.predicted_rank }}</td>
+                        <td>{{ item.confidence }}%</td>
+                        <td><strong>{{ item.chance }}</strong></td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>Sorry, we couldn't find any colleges in {{ location }} offering {{ course }}.</p>
+    {% endif %}
+
+    <br><br>
+    
+    <a href="/">
+        <button>Check Another Rank</button>
+    </a>
+
+</body>
+</html>
