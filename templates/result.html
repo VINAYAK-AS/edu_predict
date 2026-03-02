@@ -1,54 +1,78 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prediction Results</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="static/css/rstyle.css">
 </head>
 <body>
 
-    <h1>Prediction Results for {{ name }} 🎓</h1>
+    <h1>Results for {{ name }} ✨</h1>
 
-    <h3>Your Details:</h3>
-    <ul>
-        <li><strong>Your Rank:</strong> {{ rank }}</li>
-        <li><strong>Selected Course:</strong> {{ course }}</li>
-        <li><strong>Preferred Location:</strong> {{ location }}</li>
-    </ul>
+    <div class="details-card">
+        <h3>Your Details</h3>
+        <div class="details-grid">
+            <div class="detail-item">
+                <span>Rank</span>
+                {{ rank }}
+            </div>
+            <div class="detail-item">
+                <span>Course</span>
+                {{ course }}
+            </div>
+            <div class="detail-item">
+                <span>Location</span>
+                {{ location }}
+            </div>
+        </div>
+    </div>
 
-    <hr>
-
-    <h3>College Recommendations:</h3>
+    <h3 class="section-title">College Recommendations</h3>
 
     {% if results %}
-        <table border="1" cellpadding="10" cellspacing="0">
-            <thead>
-                <tr>
-                    <th>College Code</th>
-                    <th>College Name</th>
-                    <th>Predicted Cutoff Rank</th>
-                    <th>Confidence (%)</th>
-                    <th>Admission Chance</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for item in results %}
+        <div class="table-container">
+            <table>
+                <thead>
                     <tr>
-                        <td><strong>{{ item.college_code }}</strong></td>
-                        <td>{{ item.college_name }}</td>
-                        <td>{{ item.predicted_rank }}</td>
-                        <td>{{ item.confidence }}%</td>
-                        <td><strong>{{ item.chance }}</strong></td>
+                        <th>Code</th>
+                        <th>College Name</th>
+                        <th>Predicted Cutoff</th>
+                        <th>Confidence</th>
+                        <th>Chance</th>
                     </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+                </thead>
+                <tbody>
+                    {% for item in results %}
+                        <tr>
+                            <td><strong>{{ item.college_code }}</strong></td>
+                            <td>{{ item.college_name }}</td>
+                            <td>{{ item.predicted_rank }}</td>
+                            <td>{{ item.confidence }}%</td>
+                            
+                            <td class="
+                                {% if item.chance == 'High Chance' %} chance-high 
+                                {% elif item.chance == 'Medium Chance' %} chance-medium 
+                                {% else %} chance-low {% endif %}
+                            ">
+                                <span class="chance-badge">{{ item.chance }}</span>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
     {% else %}
-        <p>Sorry, we couldn't find any colleges in {{ location }} offering {{ course }}.</p>
+        <div class="details-card no-results">
+            <p>Sorry, we couldn't find any colleges in {{ location }} offering {{ course }}.</p>
+        </div>
     {% endif %}
 
-    <br><br>
-    
-    <a href="/">
-        <button>Check Another Rank</button>
+    <a href="/" class="back-link">
+        Check Another Rank 
     </a>
 
 </body>
