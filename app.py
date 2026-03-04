@@ -73,14 +73,14 @@ def predict():
             enc_college = encoders['college_code'].transform([college_code])[0]
             enc_course = encoders['course'].transform([course])[0]
             enc_cat = encoders['category'].transform([category])[0]
-
+        
             input_data = np.array([[enc_college, enc_course, enc_cat, 2026, 3]])
             predicted_cutoff = model.predict(input_data)[0]
 
             rank_difference = predicted_cutoff - user_rank
             raw_confidence = 75 + (rank_difference / 100)
             confidence_pct = min(99, max(5, int(raw_confidence)))
-
+            
             if confidence_pct >= 80:
                 chance_label = "High Chance"
             elif confidence_pct >= 50:
