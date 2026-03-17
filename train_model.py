@@ -24,11 +24,11 @@ def train_and_save():
 
     # --- THE MISSING MAGIC LINE ---
     # Split the data: 80% for training, 20% for testing
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=42)
 
     # 4. Train the Model (Only on the 80% training data!)
     print("Training Random Forest Model... Please wait 🌳")
-    model = RandomForestRegressor(n_estimators=100, random_state=42)
+    model = RandomForestRegressor(n_estimators=200, random_state=42)
     model.fit(X_train, y_train)
 
     # 5. Make predictions on the 20% hidden test data

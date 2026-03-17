@@ -4,6 +4,19 @@ import pandas as pd
 import numpy as np
 
 app = Flask(__name__)
+import json
+import google.generativeai as genai
+import os
+from dotenv import load_dotenv
+
+# Load the hidden key from the .env file
+load_dotenv()
+my_api_key = os.getenv("GEMINI_API_KEY")
+genai.configure(api_key=my_api_key)
+ai_model = genai.GenerativeModel('gemini-2.5-flash')
+
+# Our custom Cache Dictionary to memorize AI answers
+college_cache = {}
 
 # Load the model, encoders, and the dataset to get the names
 try:
@@ -111,5 +124,47 @@ def predict():
                            course=course,
                            location=location_choice.capitalize(),
                            results=results_list)
+@app.route('/api/college-details/<college_code>')
+def get_college_details(college_code):
+    # 1. SPEED BOOST: Check if we already memorized this college!
+    if college_code in college_cache:
+        print(f"Serving {college_code} from cache!")
+        return college_cache[college_code]
+
+    # 2. Look up the full college name from your CSV data
+    college_row = df[df['college_code'] == college_code]
+    if college_row.empty:
+        return {"courses": "Unknown", "fees": "Unknown", "reviews": "College not found in database."}
+        
+    full_name = college_row['college_name'].values[0]
+
+    # 3. The exact prompt we send to the AI
+    prompt = f"""
+    Find the existing courses, approximate fee structure, and a 2-sentence general student review summary for {full_name} in Kerala. 
+    Return ONLY a valid JSON object with exactly these three keys: "courses", "fees", "reviews". 
+    Do not include markdown formatting blocks (like ```json) or any other text.
+    """
+
+    # 4. Ask the AI, translate the answer, and send it to the frontend
+    try:
+        print(f"Asking AI for {full_name} details...")
+        response = ai_model.generate_content(prompt)
+        
+        # Convert the AI's text response into a real Python dictionary
+        ai_data = json.loads(response.text.strip())
+        
+        # Save it to our cache memory so we never have to ask the AI for this college again
+        college_cache[college_code] = ai_data
+        
+        return ai_data
+
+    except Exception as e:
+        print(f"AI API Error: {e}")
+        # If the AI is busy or fails, we send a graceful error message to the popup
+        return {
+            "courses": "Unable to fetch from AI at the moment.", 
+            "fees": "Unable to fetch from AI.", 
+            "reviews": "The AI is currently resting. Please try again!"
+        }
 if __name__ == "__main__":
     app.run(debug=True)

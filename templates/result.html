@@ -48,7 +48,7 @@
                 </thead>
                 <tbody>
                     {% for item in results %}
-                        <tr>
+                        <tr style="cursor: pointer;" onclick="openModal('{{ item.college_code }}', '{{ item.college_name }}')">
                             <td><strong>{{ item.college_code }}</strong></td>
                             <td>{{ item.college_name }}</td>
                             <td>{{ item.predicted_rank }}</td>
@@ -73,8 +73,84 @@
     {% endif %}
 
     <a href="/" class="back-link">
-        Check Another Rank 
+        Check Another Rank 🚀
     </a>
 
+    <div id="college-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            
+            <h2 id="modal-college-name">College Name</h2>
+            
+            <div id="modal-loader" class="loader">
+                <div class="spinner"></div>
+                <p>Summoning AI for details...</p>
+            </div>
+
+            <div id="modal-data" class="hidden">
+                <div class="modal-section">
+                    <h3>📚 Existing Courses</h3>
+                    <p id="modal-courses">Loading...</p>
+                </div>
+                <div class="modal-section">
+                    <h3>💰 Approximate Fees</h3>
+                    <p id="modal-fees">Loading...</p>
+                </div>
+                <div class="modal-section">
+                    <h3>⭐ AI Student Review Summary</h3>
+                    <p id="modal-reviews">Loading...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+        function openModal(collegeCode, collegeName) {
+            // 1. Show the popup window
+            const modal = document.getElementById('college-modal');
+            modal.classList.remove('hidden');
+
+            // 2. Set the title and reset the UI to "Loading"
+            document.getElementById('modal-college-name').innerText = collegeName;
+            document.getElementById('modal-loader').classList.remove('hidden');
+            document.getElementById('modal-data').classList.add('hidden');
+
+            // 3. Talk to our Python API in the background!
+            fetch(`/api/college-details/${collegeCode}`)
+                .then(response => response.json())
+                .then(data => {
+                    // 4. Inject the AI data into the HTML
+                    document.getElementById('modal-courses').innerText = data.courses;
+                    document.getElementById('modal-fees').innerText = data.fees;
+                    document.getElementById('modal-reviews').innerText = data.reviews;
+
+                    // 5. Hide the loading spinner and show the data
+                    document.getElementById('modal-loader').classList.add('hidden');
+                    document.getElementById('modal-data').classList.remove('hidden');
+                })
+                .catch(error => {
+                    console.error("Error fetching data:", error);
+                    document.getElementById('modal-courses').innerText = "Data unavailable.";
+                    document.getElementById('modal-fees').innerText = "Data unavailable.";
+                    document.getElementById('modal-reviews').innerText = "Could not reach AI server.";
+                    
+                    document.getElementById('modal-loader').classList.add('hidden');
+                    document.getElementById('modal-data').classList.remove('hidden');
+                });
+        }
+
+        function closeModal() {
+            // Hide the popup
+            document.getElementById('college-modal').classList.add('hidden');
+        }
+
+        // Close the popup if the user clicks the dark background outside the box
+        window.onclick = function(event) {
+            const modal = document.getElementById('college-modal');
+            if (event.target == modal) {
+                closeModal();
+            }
+        }
+    </script>
 </body>
 </html>
