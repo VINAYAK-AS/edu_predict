@@ -84,7 +84,7 @@
             
             <div id="modal-loader" class="loader">
                 <div class="spinner"></div>
-                <p>Summoning AI for details...</p>
+                <p> fetching college  details...</p>
             </div>
 
             <div id="modal-data" class="hidden">
@@ -99,6 +99,10 @@
                 <div class="modal-section">
                     <h3>⭐ AI Student Review Summary</h3>
                     <p id="modal-reviews">Loading...</p>
+                </div>
+                <div class="modal-section">
+                    <h3>Comments</h3>
+                    <p id="modal-comments">Loading...</p>
                 </div>
             </div>
         </div>
@@ -123,6 +127,7 @@
                     document.getElementById('modal-courses').innerText = data.courses;
                     document.getElementById('modal-fees').innerText = data.fees;
                     document.getElementById('modal-reviews').innerText = data.reviews;
+                    document.getElementById('modal-comments').innerText = data.comments;
 
                     // 5. Hide the loading spinner and show the data
                     document.getElementById('modal-loader').classList.add('hidden');
@@ -133,6 +138,7 @@
                     document.getElementById('modal-courses').innerText = "Data unavailable.";
                     document.getElementById('modal-fees').innerText = "Data unavailable.";
                     document.getElementById('modal-reviews').innerText = "Could not reach AI server.";
+                    document.getElementById('modal-comments').innerText = "AI is unavailable";
                     
                     document.getElementById('modal-loader').classList.add('hidden');
                     document.getElementById('modal-data').classList.remove('hidden');

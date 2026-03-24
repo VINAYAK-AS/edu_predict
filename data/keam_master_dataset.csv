@@ -565,9 +565,9 @@ TVE,"College of Engineering,Thiruvananthapuram.",G,Applied Electronics & Instrum
 TVE,"College of Engineering,Thiruvananthapuram.",G,Applied Electronics & Instrumentation,VK,11711,2021,2
 TVE,"College of Engineering,Thiruvananthapuram.",G,Applied Electronics & Instrumentation,ST,16790,2021,2
 TVE,"College of Engineering,Thiruvananthapuram.",G,Applied Electronics & Instrumentation,FW,1185,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,SM,30960,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,EW,46733,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,MG,40666,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,SM,30960,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,EW,46733,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,MG,40666,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,SM,32801,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,EW,38758,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,MU,35742,2021,2
@@ -901,12 +901,12 @@ LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,MU,34109,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,LA,46233,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,FW,13285,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,MG,40984,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,11005,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,12286,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,12511,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,DV,34696,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,8880,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,33934,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,11005,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,12286,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,12511,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,DV,34696,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,8880,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,33934,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,19596,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,11762,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,15451,2021,2
@@ -1523,13 +1523,13 @@ LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MU,201
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,LA,43141,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,FW,8604,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MG,39603,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,7537,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,11846,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,9394,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,BH,10347,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,17002,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,6691,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,18194,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,7537,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,11846,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,9394,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,BH,10347,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,17002,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,6691,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,18194,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,16741,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,9873,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,10444,2021,2
@@ -2410,11 +2410,11 @@ KSD,"College of Engineering, Kasaragod.",N,Electronics & Communication,LA,39298,
 KSD,"College of Engineering, Kasaragod.",N,Electronics & Communication,DV,43946,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,EW,45632,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,LA,47029,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,10167,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,12390,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,12227,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,7627,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,34327,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,10167,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,12390,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,12227,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,7627,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,34327,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,20518,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,15718,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,15164,2021,2
@@ -3127,13 +3127,13 @@ KSD,"College of Engineering, Kasaragod.",N,Information Technology,MG,47062,2021,
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,EW,32471,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,FW,17291,2021,2
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,MG,47062,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,16686,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,21127,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,36446,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,39456,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,LA,36981,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,12319,2021,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,46792,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,16686,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,21127,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,36446,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,39456,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,LA,36981,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,12319,2021,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,46792,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,26196,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,20140,2021,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,42232,2021,2
@@ -4396,7 +4396,7 @@ TVE,"College of Engineering,Thiruvananthapuram.",G,Applied Electronics & Instrum
 TVE,"College of Engineering,Thiruvananthapuram.",G,Applied Electronics & Instrumentation,VK,11711,2021,3
 TVE,"College of Engineering,Thiruvananthapuram.",G,Applied Electronics & Instrumentation,SC,45189,2021,3
 TVE,"College of Engineering,Thiruvananthapuram.",G,Applied Electronics & Instrumentation,FW,2147,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,SM,47530,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Applied Electronics & Instrumentation,SM,47530,2021,3
 KMC,"KMCT College of Engineering, Kozhikkode.",S,Applied Electronics & Instrumentation,SM,44379,2021,3
 PAA,"P A Aziz College of Engineering, Karakulam",S,Applied Electronics & Instrumentation,SM,34139,2021,3
 RET,"Rajagiri School of Engineering and Technology, Kochi.",S,Applied Electronics & Instrumentation,SM,46120,2021,3
@@ -4618,12 +4618,12 @@ KGR,"College of Engineering, Kidangoor.",N,Civil Engineering,FW,18810,2021,3
 KSD,"College of Engineering, Kasaragod.",N,Civil Engineering,SM,46864,2021,3
 KSD,"College of Engineering, Kasaragod.",N,Civil Engineering,FW,13976,2021,3
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,FW,13976,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,12511,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,16255,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,15927,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,DV,34696,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,8880,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,43961,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,12511,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,16255,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,15927,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,DV,34696,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,8880,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,43961,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,19596,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,15972,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,15451,2021,3
@@ -5127,13 +5127,13 @@ LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,LA,431
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,FW,9351,2021,3
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MG,47182,2021,3
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,OE,39298,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,8330,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,11893,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,11329,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,BH,12347,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,17002,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,6942,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,21384,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,8330,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,11893,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,11329,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,BH,12347,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,17002,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,6942,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,21384,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,18119,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,10365,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,12874,2021,3
@@ -5871,12 +5871,12 @@ CHN,"College of Engineering, Chengannur, Alappuzha.",N,Electronics & Communicati
 KGR,"College of Engineering, Kidangoor.",N,Electronics & Communication,SM,46463,2021,3
 KNP,"College of Engineering, Karunagappally.",N,Electronics & Communication,SM,44979,2021,3
 KSD,"College of Engineering, Kasaragod.",N,Electronics & Communication,SM,47029,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,13517,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,18736,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,22101,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,9554,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,44511,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,OE,14927,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,13517,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,18736,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,22101,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,9554,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,44511,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,OE,14927,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,20604,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,18473,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,15164,2021,3
@@ -6414,12 +6414,12 @@ KSD,"College of Engineering, Kasaragod.",N,Information Technology,MG,44868,2021,
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,EW,37685,2021,3
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,FW,17291,2021,3
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,MG,44868,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,24923,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,41168,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,36446,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,39456,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,13200,2021,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,46792,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,24923,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,41168,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,36446,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,39456,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,13200,2021,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,46792,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,36557,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,34094,2021,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MU,29482,2021,3
@@ -7476,12 +7476,12 @@ LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,MU,29786,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,LA,57094,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,FW,15708,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,MG,47844,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,13666,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,14805,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,15871,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,38278,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,9965,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,39867,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,13666,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,14805,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,15871,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,38278,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,9965,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,39867,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,22257,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,18517,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,21817,2022,1
@@ -8247,13 +8247,13 @@ LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MU,193
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,LA,44329,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,FW,6309,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MG,23902,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,6938,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,8739,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,7512,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MU,16126,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,36254,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,3827,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,15678,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,6938,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,8739,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,7512,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MU,16126,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,36254,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,3827,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,15678,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,13679,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,8701,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,10027,2022,1
@@ -9590,12 +9590,12 @@ LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,EW,20034,
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,MU,31189,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,LA,49637,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,MG,39641,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,10008,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,13197,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,10728,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,BH,14665,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,8275,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,22069,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,10008,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,13197,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,10728,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,BH,14665,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,8275,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,22069,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,16548,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,13169,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,19941,2022,1
@@ -10571,10 +10571,10 @@ TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer En
 TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer Engineering,LA,53730,2022,1
 TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer Engineering,SC,56420,2022,1
 TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer Engineering,FW,29507,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,16628,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,22053,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,18097,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MG,38466,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,16628,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,22053,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,18097,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MG,38466,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,29707,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,20008,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,18671,2022,1
@@ -10748,12 +10748,12 @@ LBS,"College of Engineering, Kasaragod.",N,Information Technology,EZ,48207,2022,
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,LA,51656,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,FW,13825,2022,1
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,MG,31194,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,17979,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,21096,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,18253,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,32444,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,12263,2022,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,35472,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,17979,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,21096,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,18253,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,32444,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,12263,2022,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,35472,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,23146,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,19754,2022,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MU,20699,2022,1
@@ -11847,12 +11847,12 @@ KSD,"College of Engineering, Kasaragod.",N,Civil Engineering,MG,58411,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,EW,43492,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,FW,18059,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,MG,58411,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,21817,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,23619,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,22855,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,38278,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,15871,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,58432,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,21817,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,23619,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,22855,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,38278,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,15871,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,58432,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,30305,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,30387,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,LA,59548,2022,2
@@ -12467,13 +12467,13 @@ LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MU,193
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,LA,53991,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,FW,6922,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MG,29590,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,8820,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,12399,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,11483,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MU,16126,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,36254,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,4767,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,19796,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,8820,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,12399,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,11483,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MU,16126,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,36254,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,4767,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,19796,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,14600,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,10692,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,12469,2022,2
@@ -13676,12 +13676,12 @@ LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,EW,31469,
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,MU,31189,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,LA,49637,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,MG,43003,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,14652,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,19366,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,20205,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,BH,14665,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,8873,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,31309,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,14652,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,19366,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,20205,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,BH,14665,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,8873,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,31309,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,20293,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,22809,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,29204,2022,2
@@ -14411,10 +14411,10 @@ TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer En
 TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer Engineering,MU,50484,2022,2
 TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer Engineering,LA,53928,2022,2
 TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer Engineering,FW,29507,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,23108,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,27500,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,34052,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MG,58544,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,23108,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,27500,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,34052,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MG,58544,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,45958,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,30868,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,30565,2022,2
@@ -14553,12 +14553,12 @@ LBS,"College of Engineering, Kasaragod.",N,Information Technology,SM,25669,2022,
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,EW,27519,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,FW,16338,2022,2
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,MG,37025,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,20917,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,24475,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,21916,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,32444,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,18672,2022,2
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,47042,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,20917,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,24475,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,21916,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,32444,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,18672,2022,2
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,47042,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,35033,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,21283,2022,2
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MU,23797,2022,2
@@ -15469,12 +15469,12 @@ KSD,"College of Engineering, Kasaragod.",N,Civil Engineering,FW,23461,2022,3
 KSD,"College of Engineering, Kasaragod.",N,Civil Engineering,MG,58411,2022,3
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,FW,23461,2022,3
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,MG,58411,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,32026,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,40898,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,34052,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,38278,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,18097,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,48086,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,32026,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,40898,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,34052,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MU,38278,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,18097,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,48086,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,43400,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,33139,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,LA,59548,2022,3
@@ -15955,13 +15955,13 @@ LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,LA,539
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,FW,6922,2022,3
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MG,33793,2022,3
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,OE,57218,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,11379,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,15750,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,11911,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MU,49592,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,36254,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,7327,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,24263,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,11379,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,15750,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,11911,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MU,49592,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,LA,36254,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,7327,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,24263,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,16147,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,18046,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,16551,2022,3
@@ -17206,12 +17206,12 @@ LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,EW,41855,
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,MU,43549,2022,3
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,LA,49637,2022,3
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,MG,60035,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,21331,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,28328,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,21916,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,BH,53778,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,8873,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,37569,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,21331,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,28328,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,21916,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,BH,53778,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,8873,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,37569,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,40507,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,31601,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,LA,53876,2022,3
@@ -17429,10 +17429,10 @@ YCE,"Younus College of Engg. & Technology, Vadakkevila, Kollam",S,Electronics & 
 FIT,"Federal Institute of Science & Tech., Angamaly.",S,Electronics & Instrumentation,SM,57107,2022,3
 FIT,"Federal Institute of Science & Tech., Angamaly.",S,Electronics & Instrumentation,FW,20194,2022,3
 SIT,"Sarabhai Institute of Science & Technology, Vellanad.",S,Electronics & Instrumentation,SM,33659,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,31331,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,43471,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,36036,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MG,58544,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,31331,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,43471,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,36036,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MG,58544,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,56197,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,35794,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MU,56664,2022,3
@@ -17540,12 +17540,12 @@ KSD,"College of Engineering, Kasaragod.",N,Information Technology,MG,40234,2022,
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,EW,33008,2022,3
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,FW,16338,2022,3
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,MG,40234,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,29332,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,32891,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,35434,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,32444,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,18672,2022,3
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,54800,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,29332,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,32891,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,35434,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,BH,32444,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,18672,2022,3
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,54800,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,47160,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,47042,2022,3
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,18672,2022,3
@@ -18545,11 +18545,11 @@ LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,SM,45730,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,EW,40808,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,LA,45761,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Civil Engineering,MG,48608,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,22100,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,27085,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,26322,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,20039,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,49069,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,22100,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,27085,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,26322,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,FW,20039,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,MG,49069,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,SM,27956,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EW,25255,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Civil Engineering,EZ,26400,2023,1
@@ -19180,13 +19180,13 @@ LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MU,200
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,LA,42893,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,FW,10289,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Computer Science & Engineering,MG,27438,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,8902,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,9789,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,11584,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MU,37696,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,DV,48047,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,7265,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,19219,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,8902,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,9789,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,11584,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MU,37696,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,DV,48047,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,FW,7265,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,MG,19219,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,SM,14660,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EW,10335,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Computer Science & Engineering,EZ,18185,2023,1
@@ -20317,12 +20317,12 @@ LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,MU,29924,
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,LA,49396,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,FW,15641,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Electronics & Communication,MG,38572,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,11993,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,12996,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,13677,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,BH,40188,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,7534,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,29090,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,11993,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,12996,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,13677,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,BH,40188,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,FW,7534,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,MG,29090,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,SM,23824,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EW,17481,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics & Communication,EZ,25754,2023,1
@@ -20988,11 +20988,11 @@ MEA,"M E A Engineering College, Malappuram.",S,Electrical and Computer Engineeri
 MEA,"M E A Engineering College, Malappuram.",S,Electrical and Computer Engineering,FW,38711,2023,1
 TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer Engineering,SM,43427,2023,1
 TOC,"Toc H Institute of Science & Tech., Ernakulam",S,Electrical and Computer Engineering,FW,27769,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,25155,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,35551,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,29015,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,FW,18783,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MG,44615,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,25155,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,35551,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EZ,29015,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,FW,18783,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MG,44615,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,SM,35322,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,EW,29704,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Electronics and Computer Engineering,MU,28750,2023,1
@@ -21152,11 +21152,11 @@ LBS,"College of Engineering, Kasaragod.",N,Information Technology,EW,24882,2023,
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,LA,49541,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,FW,15603,2023,1
 LBS,"College of Engineering, Kasaragod.",N,Information Technology,MG,36134,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,20830,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,23310,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,21952,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,14997,2023,1
-LBT,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,36349,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,20830,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,23310,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,21952,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,FW,14997,2023,1
+LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,MG,36349,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,SM,26276,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EW,23573,2023,1
 LBS,"Institute of Tech. for Women, Poojapura, TVPM",N,Information Technology,EZ,21872,2023,1
@@ -21883,13 +21883,13 @@ KSD,"College of Engineering, Kasaragod",N,Civil Engineering,MG,51334,2024,1
 LBS,"College of Engineering, Kasaragod",N,Civil Engineering,SM,41189,2024,1
 LBS,"College of Engineering, Kasaragod",N,Civil Engineering,FW,25190,2024,1
 LBS,"College of Engineering, Kasaragod",N,Civil Engineering,MG,51334,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SM,18772,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EZ,27681,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MU,25554,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,DV,50835,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,VK,36647,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,FW,15370,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MG,42869,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SM,18772,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EZ,27681,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MU,25554,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,DV,50835,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,VK,36647,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,FW,15370,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MG,42869,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SM,22695,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EZ,27872,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,LA,22632,2024,1
@@ -23673,13 +23673,13 @@ KSD,"College of Engineering, Kasaragod",N,Electronics & Communication,MG,38886,2
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,SM,19414,2024,1
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,FW,9720,2024,1
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,MG,38886,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,10771,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,12491,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,13956,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,DV,42232,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,VK,18946,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,FW,8143,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MG,20753,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,10771,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,12491,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,13956,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,DV,42232,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,VK,18946,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,FW,8143,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MG,20753,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,12917,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MU,26309,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,21535,2024,1
@@ -24447,14 +24447,14 @@ UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Comp
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,EZ,47430,2024,1
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,MU,51070,2024,1
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,BH,50096,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,20594,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,24650,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MU,21470,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,LA,32877,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,DV,51315,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,VK,33083,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,18029,2024,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MG,34405,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,20594,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,24650,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MU,21470,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,LA,32877,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,DV,51315,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,VK,33083,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,18029,2024,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MG,34405,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,25078,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,22506,2024,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,18029,2024,1
@@ -26798,13 +26798,13 @@ KSD,"College of Engineering, Kasaragod",N,Electronics & Communication,MG,42769,2
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,SM,21982,2024,2
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,FW,11775,2024,2
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,MG,42769,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,12491,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,14100,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,13956,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,DV,42232,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,VK,20543,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,FW,8562,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MG,23616,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,12491,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,14100,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,13956,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,DV,42232,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,VK,20543,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,FW,8562,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MG,23616,2024,2
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,15364,2024,2
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MU,26309,2024,2
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,26988,2024,2
@@ -27554,14 +27554,14 @@ TOC,"Toc H Institute of Science and Technology, Ernakulam",S,Electrical and Comp
 TOC,"Toc H Institute of Science and Technology, Ernakulam",S,Electrical and Computer Engineering,FW,22097,2024,2
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,SM,49224,2024,2
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,BH,50096,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,22386,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,24650,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MU,28983,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,LA,32877,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,DV,51315,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,VK,33083,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,18029,2024,2
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MG,39585,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,22386,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,24650,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MU,28983,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,LA,32877,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,DV,51315,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,VK,33083,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,18029,2024,2
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MG,39585,2024,2
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,29012,2024,2
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,22506,2024,2
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,18029,2024,2
@@ -28396,13 +28396,13 @@ LBS,"College of Engineering, Kasaragod",N,Civil Engineering,LA,66140,2025,1
 LBS,"College of Engineering, Kasaragod",N,Civil Engineering,VK,64414,2025,1
 LBS,"College of Engineering, Kasaragod",N,Civil Engineering,FW,27615,2025,1
 LBS,"College of Engineering, Kasaragod",N,Civil Engineering,MG,50440,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SM,20897,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EZ,23870,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,LA,29737,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,VK,52231,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,BH,48535,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,FW,16434,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MG,31451,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SM,20897,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EZ,23870,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,LA,29737,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,VK,52231,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,BH,48535,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,FW,16434,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MG,31451,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SM,22661,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EZ,28341,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MU,21681,2025,1
@@ -29184,15 +29184,15 @@ LBS,"College of Engineering, Kasaragod",N,Computer Science & Engineering,DV,6319
 LBS,"College of Engineering, Kasaragod",N,Computer Science & Engineering,VK,61559,2025,1
 LBS,"College of Engineering, Kasaragod",N,Computer Science & Engineering,FW,11473,2025,1
 LBS,"College of Engineering, Kasaragod",N,Computer Science & Engineering,MG,30692,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,SM,10389,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,EZ,12346,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MU,22700,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,LA,12762,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,DV,22275,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,VK,52185,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,BH,18779,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,FW,8397,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MG,17192,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,SM,10389,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,EZ,12346,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MU,22700,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,LA,12762,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,DV,22275,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,VK,52185,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,BH,18779,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,FW,8397,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MG,17192,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,SM,13211,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,EZ,23295,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MU,20157,2025,1
@@ -30542,13 +30542,13 @@ KSD,"College of Engineering, Kasaragod",N,Electronics & Communication,MG,33035,2
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,SM,20423,2025,1
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,FW,14084,2025,1
 LBS,"College of Engineering, Kasaragod",N,Electronics & Communication,MG,33035,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,10783,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,11379,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,12690,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,VK,52500,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,BH,21424,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,FW,8907,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MG,17212,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,10783,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,11379,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,12690,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,VK,52500,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,BH,21424,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,FW,8907,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MG,17212,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,12439,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,15469,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MU,17443,2025,1
@@ -31790,13 +31790,13 @@ LBS,"College of Engineering, Kasaragod",N,Information Technology,SM,33579,2025,1
 LBS,"College of Engineering, Kasaragod",N,Information Technology,MU,36076,2025,1
 LBS,"College of Engineering, Kasaragod",N,Information Technology,FW,19871,2025,1
 LBS,"College of Engineering, Kasaragod",N,Information Technology,MG,39903,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,SM,18458,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,EZ,19476,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,LA,22748,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,VK,52522,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,BH,36566,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,FW,16073,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,MG,30005,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,SM,18458,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,EZ,19476,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,LA,22748,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,VK,52522,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,BH,36566,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,FW,16073,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,MG,30005,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,SM,24313,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,EZ,36509,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,FW,16073,2025,1
@@ -32949,12 +32949,12 @@ UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Comp
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,VK,65661,2025,1
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,BH,46336,2025,1
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,SC,64164,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,20172,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,22854,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,LA,24089,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,BH,40939,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,18838,2025,1
-LBT,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MG,30161,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,20172,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,22854,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,LA,24089,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,BH,40939,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,18838,2025,1
+LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MG,30161,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,22070,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,26956,2025,1
 LBS,"Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MU,23022,2025,1
@@ -33565,17 +33565,17 @@ KSD,"LBS College of Engineering, Kasaragod",N,Civil Engineering,BX,66140,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Civil Engineering,ST,64414,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Civil Engineering,FW,35519,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Civil Engineering,MG,58272,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SM,22959,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EZ,27896,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MU,26993,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,LA,46237,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,VK,31277,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,BH,29737,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SC,54390,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,ST,58391,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EW,52024,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,FW,16983,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MG,36167,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SM,22959,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EZ,27896,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MU,26993,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,LA,46237,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,VK,31277,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,BH,29737,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,SC,54390,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,ST,58391,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,EW,52024,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,FW,16983,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Civil Engineering,MG,36167,2025,2
 PEC,"College of Engineering Pathanapuram, Kollam",N,Civil Engineering,SM,59652,2025,2
 PEC,"College of Engineering Pathanapuram, Kollam",N,Civil Engineering,MU,66199,2025,2
 PEC,"College of Engineering Pathanapuram, Kollam",N,Civil Engineering,DV,63411,2025,2
@@ -34260,20 +34260,20 @@ KSD,"LBS College of Engineering, Kasaragod",N,Computer Science & Engineering,ST,
 KSD,"LBS College of Engineering, Kasaragod",N,Computer Science & Engineering,EW,34318,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Computer Science & Engineering,FW,11686,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Computer Science & Engineering,MG,32880,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,SM,11824,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,EZ,14472,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MU,14344,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,LA,28341,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,DV,22700,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,VK,20157,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,BH,14051,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,BX,17093,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,KN,22275,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,KU,17064,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,SC,52185,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,EW,25663,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,FW,8590,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MG,20084,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,SM,11824,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,EZ,14472,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MU,14344,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,LA,28341,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,DV,22700,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,VK,20157,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,BH,14051,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,BX,17093,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,KN,22275,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,KU,17064,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,SC,52185,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,EW,25663,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,FW,8590,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Computer Science & Engineering,MG,20084,2025,2
 MDL,"Model Engineering College, Ernakulam",N,Computer Science & Engineering,SM,1546,2025,2
 MDL,"Model Engineering College, Ernakulam",N,Computer Science & Engineering,EZ,2564,2025,2
 MDL,"Model Engineering College, Ernakulam",N,Computer Science & Engineering,MU,2515,2025,2
@@ -35473,16 +35473,16 @@ KSD,"LBS College of Engineering, Kasaragod",N,Electronics & Communication,SC,550
 KSD,"LBS College of Engineering, Kasaragod",N,Electronics & Communication,EW,37757,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Electronics & Communication,FW,14084,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Electronics & Communication,MG,40647,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,11966,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,16216,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MU,15100,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,15469,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,VK,17443,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,BH,12690,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SC,52500,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EW,21424,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,FW,10892,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MG,20326,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SM,11966,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EZ,16216,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MU,15100,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,LA,15469,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,VK,17443,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,BH,12690,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,SC,52500,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,EW,21424,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,FW,10892,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics & Communication,MG,20326,2025,2
 MDL,"Model Engineering College, Ernakulam",N,Electronics & Communication,SM,2360,2025,2
 MDL,"Model Engineering College, Ernakulam",N,Electronics & Communication,EZ,3365,2025,2
 MDL,"Model Engineering College, Ernakulam",N,Electronics & Communication,MU,3081,2025,2
@@ -36551,14 +36551,14 @@ KSD,"LBS College of Engineering, Kasaragod",N,Information Technology,SC,52015,20
 KSD,"LBS College of Engineering, Kasaragod",N,Information Technology,EW,51441,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Information Technology,FW,23987,2025,2
 KSD,"LBS College of Engineering, Kasaragod",N,Information Technology,MG,46013,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,SM,21071,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,EZ,29199,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,MU,23697,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,LA,36509,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,BH,22748,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,EW,36566,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,FW,16171,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,MG,39639,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,SM,21071,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,EZ,29199,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,MU,23697,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,LA,36509,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,BH,22748,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,EW,36566,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,FW,16171,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Information Technology,MG,39639,2025,2
 TLY,"College of Engineering,Thalassery, Kannur",N,Information Technology,SM,32023,2025,2
 TLY,"College of Engineering,Thalassery, Kannur",N,Information Technology,EZ,36238,2025,2
 TLY,"College of Engineering,Thalassery, Kannur",N,Information Technology,MU,37010,2025,2
@@ -37577,16 +37577,16 @@ UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Comp
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,EZ,50380,2025,2
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,MU,53458,2025,2
 UCC,"Institute of Engineering and Technology, Malappuram",N,Electronics and Computer Science,VK,65661,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,23490,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,24313,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MU,26676,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,LA,26956,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,VK,40094,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,BH,24089,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,BX,23495,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EW,41128,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,20172,2025,2
-LBT,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MG,37234,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,SM,23490,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EZ,24313,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MU,26676,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,LA,26956,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,VK,40094,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,BH,24089,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,BX,23495,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,EW,41128,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,FW,20172,2025,2
+LBS,"LBS Institute of Technology for Women, Thiruvananthapuram",N,Electronics and Computer Engineering,MG,37234,2025,2
 PRN,"College of Engineering Perumon, Kollam",N,Electronics and Computer Engineering,SM,32087,2025,2
 PRN,"College of Engineering Perumon, Kollam",N,Electronics and Computer Engineering,EZ,43154,2025,2
 PRN,"College of Engineering Perumon, Kollam",N,Electronics and Computer Engineering,MU,34779,2025,2

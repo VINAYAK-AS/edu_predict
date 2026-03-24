@@ -2,12 +2,12 @@ from flask import Flask, render_template, request
 import joblib
 import pandas as pd
 import numpy as np
-
-app = Flask(__name__)
 import json
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
+app = Flask(__name__)
+
 
 # Load the hidden key from the .env file
 load_dotenv()
@@ -140,8 +140,12 @@ def get_college_details(college_code):
 
     # 3. The exact prompt we send to the AI
     prompt = f"""
-    Find the existing courses, approximate fee structure, and a 2-sentence general student review summary for {full_name} in Kerala. 
-    Return ONLY a valid JSON object with exactly these three keys: "courses", "fees", "reviews". 
+    Find the existing courses, approximate fee structure, and a 4-sentence general student review summary for {full_name} in Kerala. 
+    Also add specific, individual student comments. You must include a balanced mix of both positive and negative feedback. 
+    Include as many relevant comments as you can find. For each comment, include the student's name if available.
+    Format the comments as a single string with bullet points using the dash (-) symbol and line breaks.
+    Return ONLY a valid JSON object with exactly these FOUR keys: "courses", "fees", "reviews", "comments". 
+    CRITICAL RULE: The value for EVERY key (especially "fees" and "courses") MUST be a single, plain text string. Do NOT use nested dictionaries, objects, or arrays for the values.
     Do not include markdown formatting blocks (like ```json) or any other text.
     """
 
