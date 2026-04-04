@@ -47,6 +47,6 @@ def train_and_save():
     joblib.dump(model, 'models/keam_model.pkl')
     joblib.dump(encoders, 'models/encoders.pkl')
     print("Model Training Complete. Files saved to the 'models' folder! 💾")
-
+            
 if __name__ == "__main__":
     train_and_save()

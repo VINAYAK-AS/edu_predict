@@ -89,12 +89,39 @@ def predict():
         
             input_data = np.array([[enc_college, enc_course, enc_cat, 2026, 3]])
             predicted_cutoff = model.predict(input_data)[0]
-
+            
             rank_difference = predicted_cutoff - user_rank
-            raw_confidence = 75 + (rank_difference / 100)
+
+           
+            if rank_difference >= 5000:
+                
+                base_confidence = 85
+            elif rank_difference >= 2500:
+               
+                base_confidence = 65
+            elif rank_difference >= 500:
+                
+                base_confidence = 60
+            elif rank_difference >= 0:
+                
+                base_confidence = 50
+            elif rank_difference >= -1000:
+                
+                base_confidence = 45
+            elif rank_difference >= -3000:
+               
+                base_confidence = 25
+            else:
+                
+                base_confidence = 10
+
+           
+            raw_confidence = base_confidence + (rank_difference / 1000)
+
+           
             confidence_pct = min(99, max(5, int(raw_confidence)))
             
-            if confidence_pct >= 80:
+            if confidence_pct >= 90:
                 chance_label = "High Chance"
             elif confidence_pct >= 50:
                 chance_label = "Medium Chance"
@@ -116,7 +143,7 @@ def predict():
             continue
 
     # Sort results
-    results_list = sorted(results_list, key=lambda x: x['confidence'], reverse=True)
+    results_list = sorted(results_list, key=lambda x: x['predicted_rank'], reverse=True)
 
     return render_template("result.html", 
                            name=sname, 
