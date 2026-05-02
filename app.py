@@ -3,17 +3,33 @@ import joblib
 import pandas as pd
 import numpy as np
 import json
-import google.generativeai as genai
 import os
+import warnings # <-- ADDED THIS
 from dotenv import load_dotenv
+
+# NEW IMPORTS FOR THE UPDATED SDK
+from google import genai
+from google.genai import types
+from pydantic import BaseModel
+
+# <-- ADDED THIS TO MUTE THE RED WARNINGS -->
+warnings.filterwarnings("ignore", category=UserWarning)
+
 app = Flask(__name__)
 
-
-# Load the hidden key from the .env file
+# 1. Load the hidden key from the .env file
 load_dotenv()
 my_api_key = os.getenv("GEMINI_API_KEY")
-genai.configure(api_key=my_api_key)
-ai_model = genai.GenerativeModel('gemini-2.5-flash')
+
+# 2. Initialize the new Gemini Client
+client = genai.Client(api_key=my_api_key)
+
+# 3. Define the exact JSON structure we want the AI to return
+class CollegeDetails(BaseModel):
+    courses: str
+    fees: str
+    reviews: str
+    comments: str
 
 # Our custom Cache Dictionary to memorize AI answers
 college_cache = {}
@@ -40,7 +56,7 @@ def predict():
     course = request.form.get("course")
     location_choice = request.form.get("location").lower()
 
-    # 1. Dictionary (Removed "pala" to stop it from matching "palakkad"!)
+    # 1. Dictionary
     district_keywords = {
         'eranakulam': ['ernakulam', 'kochi', 'cochin', 'thrikkakkara', 'kalamassery', 'aluva', 'angamaly', 'kothamangalam', 'muvattupuzha', 'perumbavoor', 'piravam', 'vazhakulam', 'kakkanad'],
         'trivandrum': ['trivandrum', 'thiruvananthapuram', 'tvm', 'tvpm', 'kazhakuttom', 'nedumangad', 'attingal', 'pappanamcode', 'barton hill', 'poojapura', 'vellanad', 'neyyattinkara', 'kallambalam'],
@@ -62,7 +78,6 @@ def predict():
 
     # --- THE FIX: Get ONLY colleges that ACTUALLY offer the selected course ---
     valid_colleges_for_course = df[df['course'] == course]['college_code'].unique()
-    # Using a 'set' automatically prevents duplicate colleges from being added!
     target_colleges = set() 
     
     # 2. The For Loop: Check course FIRST, then location
@@ -92,33 +107,22 @@ def predict():
             
             rank_difference = predicted_cutoff - user_rank
 
-           
             if rank_difference >= 5000:
-                
                 base_confidence = 85
             elif rank_difference >= 2500:
-               
                 base_confidence = 65
             elif rank_difference >= 500:
-                
                 base_confidence = 60
             elif rank_difference >= 0:
-                
                 base_confidence = 50
             elif rank_difference >= -1000:
-                
                 base_confidence = 45
             elif rank_difference >= -3000:
-               
                 base_confidence = 25
             else:
-                
                 base_confidence = 10
 
-           
             raw_confidence = base_confidence + (rank_difference / 1000)
-
-           
             confidence_pct = min(99, max(5, int(raw_confidence)))
             
             if confidence_pct >= 90:
@@ -151,6 +155,7 @@ def predict():
                            course=course,
                            location=location_choice.capitalize(),
                            results=results_list)
+
 @app.route('/api/college-details/<college_code>')
 def get_college_details(college_code):
     # 1. SPEED BOOST: Check if we already memorized this college!
@@ -161,41 +166,53 @@ def get_college_details(college_code):
     # 2. Look up the full college name from your CSV data
     college_row = df[df['college_code'] == college_code]
     if college_row.empty:
-        return {"courses": "Unknown", "fees": "Unknown", "reviews": "College not found in database."}
+        return {"courses": "Unknown", "fees": "Unknown", "reviews": "College not found in database.", "comments": ""}
         
     full_name = college_row['college_name'].values[0]
 
-    # 3. The exact prompt we send to the AI
+    # 3. Cleaned up prompt
     prompt = f"""
     Find the existing courses, approximate fee structure, and a 4-sentence general student review summary for {full_name} in Kerala. 
-    Also add specific, individual student comments. You must include a balanced mix of both positive and negative feedback. 
-    Include as many relevant comments as you can find. For each comment, include the student's name if available.
-    Format the comments as a single string with bullet points using the dash (-) symbol and line breaks.
-    Return ONLY a valid JSON object with exactly these FOUR keys: "courses", "fees", "reviews", "comments". 
-    CRITICAL RULE: The value for EVERY key (especially "fees" and "courses") MUST be a single, plain text string. Do NOT use nested dictionaries, objects, or arrays for the values.
-    Do not include markdown formatting blocks (like ```json) or any other text.
+    Also add specific, individual student comments. Include a balanced mix of positive and negative feedback with student names.
+    
+    STRICT FORMATTING RULES:
+    1. COURSES: Format as a vertical list using the bullet symbol (•). Put each course on a new line.
+    2. FEES: Just state the exact rupee amounts clearly. (Do NOT use markdown asterisks like **).
+    3. COMMENTS: Start every positive comment with a green circle (🟢) and every negative comment with a red circle (🔴).
+    4. LINE BREAKS: You MUST separate every single comment with a double newline character (\\n\\n). Do NOT merge them into one line.
     """
 
-    # 4. Ask the AI, translate the answer, and send it to the frontend
+    # 4. Ask the AI using the new Structured Outputs system
     try:
         print(f"Asking AI for {full_name} details...")
-        response = ai_model.generate_content(prompt)
         
-        # Convert the AI's text response into a real Python dictionary
-        ai_data = json.loads(response.text.strip())
+        response = client.models.generate_content(
+            model='gemini-2.5-flash', 
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                response_schema=CollegeDetails,
+                temperature=0.3,
+            ),
+        )
         
-        # Save it to our cache memory so we never have to ask the AI for this college again
+        # Convert the AI's perfect JSON string into a Python dictionary
+        ai_data = json.loads(response.text)
+        
+        # Save it to our cache memory
         college_cache[college_code] = ai_data
         
         return ai_data
 
     except Exception as e:
         print(f"AI API Error: {e}")
-        # If the AI is busy or fails, we send a graceful error message to the popup
+        # Graceful fallback
         return {
             "courses": "Unable to fetch from AI at the moment.", 
             "fees": "Unable to fetch from AI.", 
-            "reviews": "The AI is currently resting. Please try again!"
+            "reviews": "The AI is currently resting. Please try again!",
+            "comments": "No comments available."
         }
+
 if __name__ == "__main__":
     app.run(debug=True)
